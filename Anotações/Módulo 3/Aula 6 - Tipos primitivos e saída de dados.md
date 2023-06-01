@@ -20,3 +20,5 @@ Definindo o valor de uma variável através de input:
 n1 = int(input('Digite um valor: '))
 ```
 
+
+## pythonTest > aula06a e aula06b ##
